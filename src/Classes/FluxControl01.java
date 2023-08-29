@@ -1,8 +1,6 @@
 package Classes;
 
-import jdk.jfr.Category;
-
-public class FluxControl1 {
+public class FluxControl01 {
     public static void main(String[] args) {
         int age = 22;
         String category;

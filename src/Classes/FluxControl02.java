@@ -1,6 +1,6 @@
 package Classes;
 
-public class FluxControl2 {
+public class FluxControl02 {
     public static void main(String[] args) {
         int age = 22;
         String status;
