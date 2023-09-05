@@ -10,5 +10,8 @@ public class CalculadoraTest {
         calc.multDoisNumeros(10, 2);
         double result = calc.divDoisNumeros(35, 5);
         System.out.println(result);
+
+        int[] numeros = {1, 2, 3, 4, 5};
+        calc.somaArray(numeros);
     }
 }

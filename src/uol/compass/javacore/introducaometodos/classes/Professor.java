@@ -1,13 +1,18 @@
-package uol.compass.javacore.introducaoclasses.classes;
+package uol.compass.javacore.introducaometodos.classes;
 
 
-
-//  1 Crie os seguintes ATRIBUTOS para essa classe: Nome, matricula, rg e cpf.
-//  2 Crie uma classe de teste para preencher e imprimir os dados desse professor.
-public class ProfessorExercise {
+public class Professor {
     public String nome;
     public String matricula;
     public String rg;
     public String cpf;
+
+    public void imprime (){
+        System.out.println(this.cpf);
+        System.out.println(this.nome);
+        System.out.println(this.rg);
+        System.out.println(this.matricula);
+        System.out.println("Próximo ============>");
+    }
 
 }

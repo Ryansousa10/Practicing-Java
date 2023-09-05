@@ -1,0 +1,6 @@
+
+U
+java:S1854"8Remove this useless assignment to local variable "dias".(£–ì¬8£Ø…¦1
+F
+java:S1481")Remove this unused "dias" local variable.(£–ì¬8ªØ…¦1
+G	java:S106"+Replace this use of System.out by a logger.(â¯˜‚8«Ø…¦1

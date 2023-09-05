@@ -1,0 +1,14 @@
+
+m
+java:S1104"PMake nome a static final constant or non-public and provide accessors if needed.(µ©Ñ¸8ÝÌ§¬¦1
+w
+java:S1104"UMake matricula a static final constant or non-public and provide accessors if needed.(©úœýùÿÿÿÿ8ÝÌ§¬¦1
+k
+java:S1104"NMake rg a static final constant or non-public and provide accessors if needed.(Ù­Ò›8ÝÌ§¬¦1
+l
+java:S1104"OMake cpf a static final constant or non-public and provide accessors if needed.(•Å÷Ô8ÝÌ§¬¦1
+L	java:S106"+Replace this use of System.out by a logger.(Ê‰ ¢øÿÿÿÿ8µÔ¨¬¦1
+L	java:S106"+Replace this use of System.out by a logger.(´ËþÆýÿÿÿÿ8¶Ô¨¬¦1
+G	java:S106"+Replace this use of System.out by a logger.(®æ¶á8¶Ô¨¬¦1
+L	java:S106"+Replace this use of System.out by a logger.(ìäªÖûÿÿÿÿ8¶Ô¨¬¦1
+G	java:S106"+Replace this use of System.out by a logger.(Éß‘¿8Ö¨ó¬¦1

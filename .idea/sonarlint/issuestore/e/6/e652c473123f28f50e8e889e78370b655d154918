@@ -1,0 +1,15 @@
+
+c
+java:S1226"AIntroduce a new variable instead of reusing the parameter "num1".(È’Şóúÿÿÿÿ8à¼‰³¦1
+^
+java:S1226"AIntroduce a new variable instead of reusing the parameter "num2".(‚˜Å­8à¼‰³¦1
+L	java:S106"+Replace this use of System.out by a logger.(õ¹åÓıÿÿÿÿ8ê¼‰³¦1
+G	java:S106	"+Replace this use of System.out by a logger.(æ“ùÊ8ë¼‰³¦1
+g
+java:S1764	"JCorrect one of the identical sub-expressions on both sides of operator "-"(æ“ùÊ8ë¼‰³¦1
+G	java:S106"+Replace this use of System.out by a logger.(ÙÍÛƒ8ì¼‰³¦1
+U
+java:S1854"8Remove this useless assignment to local variable "num2".(‚˜Å­8ì¼‰³¦1
+Z
+java:S1854"8Remove this useless assignment to local variable "num1".(È’Şóúÿÿÿÿ8ì¼‰³¦1
+L	java:S106"+Replace this use of System.out by a logger.(ÂÛõøÿÿÿÿ8í¼‰³¦1
