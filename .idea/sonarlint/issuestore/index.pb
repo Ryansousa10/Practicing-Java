@@ -38,3 +38,9 @@ r
 Bsrc/uol/compass/javacore/introducaometodos/test/ProfessorTest.java,5\a\5a1c6a20cd6d53b137e9b11b667353e626b31233
 q
 Asrc/uol/compass/javacore/introducaometodos/classes/Professor.java,a\6\a63288a4436cd22fff634ee205fd036f1e40ca41
+i
+9src/uol/compass/javacore/exercises/classes/Estudante.java,1\8\1844cfa3949448c969cbc4607d673d32b55da0bb
+j
+:src/uol/compass/javacore/exercises/test/EstudanteTest.java,5\5\55c16be1944157cd5859c2800731031a22778cb7
+p
+@src/uol/compass/javacore/introducaocolecoes/test/ListTest01.java,0\4\04e30a961c23b8935ea4be9f2ff8627422139979

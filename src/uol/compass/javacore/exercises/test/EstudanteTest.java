@@ -10,5 +10,5 @@ public class EstudanteTest {
         aluno.notas = new double[]{10.0, 8.7, 5.4};
 
         aluno.calcMedia();
-}
+    }
 }
